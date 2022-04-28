@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **C#, .NET/ Angular**
 
-- 📫 How to reach me **angelfeliciano457@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
